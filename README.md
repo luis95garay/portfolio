@@ -1,4 +1,4 @@
-# Personal Projects Portfolio
+# Personal Projects Portfolio ✅
 
 As a machine learning engineer, my passion lies in artificial intelligence and data science. Throughout my career, I have worked on various projects that have provided me with a wide range of skills. I have experience in several areas, including: (1) Creating chatbots using large language models, (2) Fine-tuning stable diffusion pipelines to generate artificial intelligence images, (3) Performing computer vision tasks such as object detection, tracking, segmentation, and general image processing, (4) Applying graph theory in social networks, and (5) Training supervised and unsupervised models, ranging from linear models to deep neural networks. Furthermore, I am always eager to learn new things and take on new challenges, and I am dedicated to giving my best in every task. My results-oriented approach has been complemented by the development of strong skills in teamwork, leadership, empathy, and adaptability.
 
@@ -13,7 +13,8 @@ As a machine learning engineer, my passion lies in artificial intelligence and d
 
 - Objective: Develop a virtual assistant powered by Langchain and OpenAI.
 - Tools: Langchain, OpenAI, faiss, Python
-  [Virtual assistant](https://github.com/luis95garay/langchain_virtual_assistant)
+  [Virtual assistant](https://github.com/luis95garay/amazon-langchain-chatbot)
+  ![Virtual assistant](public/question1.png)
 
 ## 3) Object Detection for Stock Detection in an Automatic Store
 

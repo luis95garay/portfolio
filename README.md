@@ -13,7 +13,7 @@ As a machine learning engineer, my passion lies in artificial intelligence and d
 
 - Objective: Develop a virtual assistant powered by Langchain and OpenAI.
 - Tools: Langchain, OpenAI, faiss, Python
-  ![Virtual assistant](https://github.com/luis95garay/noone-langchain-chatbot)
+  [Virtual assistant](https://github.com/luis95garay/noone-langchain-chatbot)
   ![Virtual assistant](public/question1.png)
 
 ## 3) Object Detection for Stock Detection in an Automatic Store

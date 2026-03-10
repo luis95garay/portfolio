@@ -8,6 +8,7 @@
       <p>
         As a machine learning engineer, my passion lies in artificial intelligence and data science. Throughout my career, I have worked on various projects that have provided me with a wide range of skills. I have experience in several areas, including: (1) Creating chatbots using large language models, (2) Fine-tuning stable diffusion pipelines to generate artificial intelligence images, (3) Performing computer vision tasks such as object detection, tracking, segmentation, and general image processing, (4) Applying graph theory in social networks, and (5) Training supervised and unsupervised models, ranging from linear models to deep neural networks. Furthermore, I am always eager to learn new things and take on new challenges, and I am dedicated to giving my best in every task. My results-oriented approach has been complemented by the development of strong skills in teamwork, leadership, empathy, and adaptability.
       </p>
+      <p><strong>Portfolio:</strong> <a href="https://portfolio-bjgvz2pnla-uc.a.run.app/">https://portfolio-bjgvz2pnla-uc.a.run.app/</a></p>
     </td>
   </tr>
 </table>
